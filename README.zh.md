@@ -119,6 +119,16 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 感谢 AppSo 团队对 OpenClaw 成本和安全问题的深入分析。
 
+## Star History
+
+<a href="https://star-history.com/#orange2ai/openclaw-killer&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=orange2ai/openclaw-killer&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=orange2ai/openclaw-killer&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=orange2ai/openclaw-killer&type=Date" width="100%" />
+ </picture>
+</a>
+
 ## 许可证
 
 [MIT License](LICENSE)
